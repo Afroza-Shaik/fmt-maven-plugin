@@ -2,7 +2,7 @@
 [![license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/spotify/fmt-maven-plugin/blob/main/LICENSE)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.spotify.fmt/fmt-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.spotify.fmt/fmt-maven-plugin)
 
-## fmt-maven-plugin 
+## Maven A-code
 
 **UPDATE 2022-02-14:** This plugin has moved from [coveooss](https://github.com/coveooss/) to the [spotify](https://github.com/spotify/) Github org. The new groupId will be `com.spotify.fmt`, and the `master` branch has been renamed to `main`.
 
